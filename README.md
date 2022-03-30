@@ -13,7 +13,8 @@ Univesidad de Granada
 
 **Autor(es)** _Natalia Ruiz Carmona, Sergio García Sánchez___
 
-**Resumen** : _________
+**Resumen** : Con este webdoc interactivo se pretende dar a conocer la situación del campo en Granada y las consecuencias que están teniendo principalmente la sequía y la subida de precios de los combustibles.
+
 
 **logotipo** :  ________
 
