@@ -9,7 +9,7 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _______
+**Titulo** : _La muerte del campo granadino______
 
 **Autor(es)** ______________
 
