@@ -1,4 +1,4 @@
-## (Nombre del proyecto)  
+## La muerte del campo Granadino 
 
 (Plantilla para la creación de un proyecto Multimedia Interactivo)
 
@@ -11,7 +11,7 @@ Univesidad de Granada
 
 **Titulo** : _La muerte del campo granadino______
 
-**Autor(es)** ______________
+**Autor(es)** _Natalia Ruiz Carmona, Sergio García Sánchez___
 
 **Resumen** : _________
 
@@ -23,7 +23,7 @@ Univesidad de Granada
 
 **Licencia**    (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES) 
 
-**Fecha** : 2020
+**Fecha** : 2022
 
 **Medios** (donde se tiene presencia): 
 
