@@ -65,7 +65,7 @@ El tono es informativo, e incluso educativo, de cara a mostrar la cruda realidad
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
 Prototipado del documental interactivo en Protopie: https://cloud.protopie.io/p/e4205afdd7
-Prototipado de la página web, diseño visual, en la herramienta Canva.
+Prototipado de la página web, diseño visual, en la herramienta Canva: https://www.canva.com/design/DAE-cHtpUn8/4IkSlbhmmxYynjfHM_XUJA/view?website#2:inicio-noticias-datos-calendario-contacto
 Diseño de los diferentes perfiles en redes sociales con la herramienta Canva.
 * redes sociales (...) 
 Twitter, Instagram, TikTok. 
