@@ -9,9 +9,9 @@ Univesidad de Granada
 
 ----
 
-**Titulo** : _La muerte del campo granadino.
+**Titulo** : La muerte del campo granadino.
 
-**Autor(es)** _Natalia Ruiz Carmona, Sergio García Martos.
+**Autor(es)** Natalia Ruiz Carmona, Sergio García Martos.
 
 **Resumen** : Webdoc interactivo que pretende dar a conocer la situación del campo en Granada y los problemas que está teniendo, principalmente a causa de la sequía y la subida de precios de los combustibles.
 
@@ -20,7 +20,7 @@ Univesidad de Granada
 ![Logo](https://user-images.githubusercontent.com/102685965/164268089-8c5c5a22-6c48-436a-8ec0-032c49dde9ac.png)
 
 
-**Slogan** (frase motivadora/inspiradora): ________
+**Slogan** Salvemos al campo granadino.
 
 **Hashtag**  #salvemoselcampo #agricultura #sequía
 
