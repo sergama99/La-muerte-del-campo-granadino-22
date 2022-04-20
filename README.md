@@ -64,7 +64,7 @@ El tono es informativo, e incluso educativo, de cara a mostrar la cruda realidad
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses) 
 
 * Imagen visual (Portada / Diseño de Interfaz) y herramienta usada 
-Prototipado del documental interactivo en Protopie.
+Prototipado del documental interactivo en Protopie: https://cloud.protopie.io/p/e4205afdd7
 Prototipado de la página web, diseño visual, en la herramienta Canva.
 Diseño de los diferentes perfiles en redes sociales con la herramienta Canva.
 * redes sociales (...) 
